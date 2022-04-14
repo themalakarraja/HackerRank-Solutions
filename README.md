@@ -40,3 +40,6 @@ The problem solutions and implementations are entirely provided by <a href="http
 <a href="https://www.hackerrank.com/certificates/e62b80d09e08">
     <img src="images/python_basic_certificate.png" alt="Python (Basic) Certificate"/>
 </a>
+<a href="https://www.hackerrank.com/certificates/1f39e2d93be9">
+    <img src="images/java_basic_certificate.png" alt="Java (Basic) Certificate"/>
+</a>
